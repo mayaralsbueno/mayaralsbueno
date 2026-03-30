@@ -10,7 +10,7 @@
  
 
 
-- 🧠Atualmente estou cursando faculdade de sistemas de  informação
+- 🧠Atualmente estou cursando faculdade de tecnologia em ciência de dados 
 - 👩‍🎓 Realizei o Bootcamp da Generation Brasil         
 -  📰 [Portfólio](https://mayaraportifolio.netlify.app/)
 -  📰 [Climatika](https://climatika-store.netlify.app/)
